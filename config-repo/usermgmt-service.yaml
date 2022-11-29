@@ -1,10 +1,10 @@
 server :
-  port : '8090'
+  port : '8092'
 spring :
   datasource:
     url: jdbc:mysql://localhost:3306/profile
     username : root
-    password : root
+    password : Yubraj@2053
     driver-class-name : com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
